@@ -20,3 +20,5 @@ Requiere de las siguientes librerias de Adafruit:
 * "Reset" para iniciar nuevamente
 
 El "score" se basa en la eficiencia de llenado del espacio.
+
+[Video del juego funcionando](https://www.youtube.com/watch?v=F35Q0_6S4rs)
