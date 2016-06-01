@@ -7,6 +7,12 @@ Hay mucho espacio para mejorara el código.  Fue creado con propósitos didácti
 
 En Costa Rica los componentes los puede encontrar en [CrCibernetica.com](http://crcibernetica.com/)
 
+##Librerias adicionales
+
+Requiere de las siguientes librerias de Adafruit:
+* [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+* [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+
 ##Instrucciones
 
 * Botón "A" mueve a la izquierda y botón "C" a la derecha
