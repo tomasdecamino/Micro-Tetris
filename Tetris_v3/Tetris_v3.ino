@@ -68,11 +68,6 @@ void loop() {
   bY += BLOCKSIZE;
   int rX = bX / BLOCKSIZE;
   int rY = bY / BLOCKSIZE;
-  /****checks if it is the end***/
-
-
-
-
 
   /*** check buttons *****/
   //A, C control left and right movements
@@ -83,7 +78,7 @@ void loop() {
   //Rotate blocks
   (digitalRead(BUTTON_B)) ? : currentPattern = shiftBlock(currentPattern);
 
-  /*** checks it is moves anf fits piece ****/
+  /*** checks it is moves adf fits in place when not ****/
   if (bY >= 120 || checkBottom(currentPattern,  rX, rY)) {
     bY = 10;
     fit(currentPattern, rX, rY);
