@@ -5,6 +5,8 @@ Juego de Tetris para la placa [Adafruit Feather M0](https://www.adafruit.com/pro
 
 Hay mucho espacio para mejorara el código.  Fue creado con propósitos didácticos como parte de los materiales de la [Fundación Costa Rica para la Innovación](http://funcostarica.org/)
 
+En Costa Rica los componentes los puede encontrar en [CrCibernetica.com](http://crcibernetica.com/)
+
 ##Instrucciones
 
 * Botón "A" mueve a la izquierda y botón "C" a la derecha
